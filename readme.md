@@ -6,7 +6,7 @@
 The goal of this project is to perform data analytics on Tokyo Olympic 2021 dataset using various tools and technologies, including Azure Data Factory, Azure Synapse Analytics, Data Lake Gen 2, and DataBricks.
 
 ## Architecture
-![architecture](olmypic_dataset.png))
+![architecture](olmypic_dataset.png)
 
 ## 📌 Project Workflow: Tokyo Olympic Data Analytics (End-to-End Azure Data Engineering)
 
